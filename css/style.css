@@ -106,10 +106,10 @@ blockquote {
     border-color: #51626b;
 }
 header {
-    background: #25bbd3 url(../img/bg-header.jpg) no-repeat center bottom;
+    background: #25bbd3 no-repeat center bottom;
 }
 header.overview {
-    background: #25bbd3 url(../img/bg-header2.jpg) no-repeat center bottom;
+    background: #25bbd3  no-repeat center bottom;
 }
 .navbar-header {
     height: 80px;
